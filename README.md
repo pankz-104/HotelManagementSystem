@@ -21,6 +21,9 @@ create table driver(name varchar(30), age varchar(10), gender varchar(15), car_c
 create table department(department varchar(30), budget varchar(15));
 
 insert into department values('Marketing', '2000000');
+
 insert into department values('Transport', '300000');
+
 insert into department values('Service', '1000000');
+
 insert into department values('Security', '400000');
