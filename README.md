@@ -38,7 +38,7 @@ Database
 
 ![Dashboard](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Dashboard.png)
 ![Reception](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Reception.png)
-![Admin](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Admin.png)
+            ![Admin](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Admin.png)
 ![AddRooms](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/AddRooms.png)
 ![AddEmployees](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/AddEmployee.png)
 ![NewEmployee](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/New_Customer.png)
