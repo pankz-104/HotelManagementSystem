@@ -32,3 +32,8 @@ Database
       insert into department values('Service', '1000000');
 
       insert into department values('Security', '400000');
+
+
+
+
+![Dashboard](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Dashboard.png)
