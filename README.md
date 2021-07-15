@@ -38,5 +38,3 @@ Database
 
 ![Dashboard](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Dashboard.png)
 ![Reception](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Reception.png)
-            ![Admin](https://github.com/pankz-104/HotelManagementSystem/blob/main/src/hotel/management/system/Image/Admin.png)
-
